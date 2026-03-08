@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Evaluating Credit Risk Through Transaction-Level Cash Flows: A Data-Driven Alternative to Traditional Scoring
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Traditional credit scores remain standard to credit risk evaluation, yet their heavy reliance on historical repayment data systematically excludes borrowers with limited or no formal credit history. This dependence not only reinforces structural inequities but also fails to incorporate the rich behavioral signals embedded in individuals’ day-to-day financial activity. As access to digital banking expands, large-scale transaction data provide an opportunity to rethink how creditworthiness is assessed.
+
+This project develops a cash-flow underwriting framework that leverages income consistency, spending composition, liquidity trends, and short-term financial volatility to predict default risk. By transforming raw bank account and transaction records into structured, consumer-level behavioral features, we construct models that capture real-time financial stability rather than past borrowing outcomes alone. Our results demonstrate that behavior-based cash-flow signals can meaningfully enhance risk prediction while supporting a more inclusive and data-driven approach to credit evaluation.
